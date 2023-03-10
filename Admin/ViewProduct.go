@@ -14,3 +14,4 @@ func ViewProducts(c *fiber.Ctx){
 	c.JSON(Products )
 
 }
+
